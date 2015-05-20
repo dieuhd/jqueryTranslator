@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Simple jQuery Translation / Localization for your projects",
   "homepage": "https://github.com/dieuhd/jqueryTranslator",
-  "main": "jqueryTranslator.js",
+  "main": [
+     "./jqueryTranslator.js"
+  ],
   "keywords": [
     "jquery",
     "jquery plugin",
