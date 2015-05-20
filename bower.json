@@ -1,0 +1,30 @@
+{
+  "name": "jqueryTranslator",
+  "version": "1.0.0",
+  "description": "Simple jQuery Translation / Localization for your projects",
+  "homepage": "https://github.com/dieuhd/jqueryTranslator",
+  "main": "jqueryTranslator.js",
+  "keywords": [
+    "jquery",
+    "jquery plugin",
+    "bower",
+    "bower jqueryTranslator",
+    "jqueryTranslator"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.2.1"
+  },
+  "authors": {
+    "name": "dieuhd",
+    "web": "http://gametech.vn"
+  },
+  "licenses": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
+
